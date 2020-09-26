@@ -1,0 +1,8 @@
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Persistence\bin\Debug\netcoreapp3.1\AdocaoPet.Persistence.deps.json
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Persistence\bin\Debug\netcoreapp3.1\AdocaoPet.Persistence.dll
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Persistence\bin\Debug\netcoreapp3.1\AdocaoPet.Persistence.pdb
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Persistence\obj\Debug\netcoreapp3.1\AdocaoPet.Persistence.csproj.CoreCompileInputs.cache
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Persistence\obj\Debug\netcoreapp3.1\AdocaoPet.Persistence.AssemblyInfoInputs.cache
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Persistence\obj\Debug\netcoreapp3.1\AdocaoPet.Persistence.AssemblyInfo.cs
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Persistence\obj\Debug\netcoreapp3.1\AdocaoPet.Persistence.dll
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Persistence\obj\Debug\netcoreapp3.1\AdocaoPet.Persistence.pdb

@@ -1,0 +1,12 @@
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\bin\Debug\netcoreapp3.1\AdocaoPet.Application.deps.json
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\bin\Debug\netcoreapp3.1\AdocaoPet.Application.dll
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\bin\Debug\netcoreapp3.1\AdocaoPet.Application.pdb
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\bin\Debug\netcoreapp3.1\AdocaoPet.Domain.dll
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\bin\Debug\netcoreapp3.1\AdocaoPet.Domain.pdb
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\obj\Debug\netcoreapp3.1\AdocaoPet.Application.csprojAssemblyReference.cache
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\obj\Debug\netcoreapp3.1\AdocaoPet.Application.csproj.CoreCompileInputs.cache
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\obj\Debug\netcoreapp3.1\AdocaoPet.Application.AssemblyInfoInputs.cache
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\obj\Debug\netcoreapp3.1\AdocaoPet.Application.AssemblyInfo.cs
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\obj\Debug\netcoreapp3.1\AdocaoPet.Application.csproj.CopyComplete
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\obj\Debug\netcoreapp3.1\AdocaoPet.Application.dll
+C:\_MyProjects\_.NET Core Angular\Projects\AdocaoPet\AdocaoPet\backend\v1\AdocaoPet\src\AdocaoPet.Application\obj\Debug\netcoreapp3.1\AdocaoPet.Application.pdb

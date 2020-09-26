@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AdocaoPet.Application/1.0.0": {
+        "dependencies": {
+          "AdocaoPet.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AdocaoPet.Application.dll": {}
+        }
+      },
+      "AdocaoPet.Domain/1.0.0": {
+        "runtime": {
+          "AdocaoPet.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdocaoPet.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AdocaoPet.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
